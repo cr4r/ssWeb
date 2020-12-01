@@ -47,4 +47,4 @@ ubah lah variabel mode di index.js.
 * [`puppeteer`](https://github.com/puppeteer/puppeteer/)
 
 ### Donate
-* [`trakteer`](trakteer.id/cr4r)
+* [`trakteer`](https://trakteer.id/cr4r)
