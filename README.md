@@ -23,18 +23,20 @@
 # Screenshot PDF Website
 Tool yang bertujuan ScreenShot sebuah Website yang di inginkan<br>
 "Makin aku banyak membaca, makin aku banyak berpikir<br>
-makin aku banyak belajar, makin aku sadar bahwa aku tak mengetahui apa pun." - Voltaire
-## Aplikasi yang harus di install
-Google-Chrome, Nodejs<br>
-Sudah di test melalui OS Ubuntu 18.04 Bionic dan Debian 10 Buster
+makin aku banyak belajar, makin aku sadar bahwa aku tak mengetahui apa pun." - Voltaire<br><br>
+Tools ini menginstall module lebih dari 400 mb, jadi siapkan kuota anda
 ## Clone this project
 ```bash
 git clone https://github.com/cr4r/ssWeb
 ```
-## Tata cara penginstalan
+## Instalasi
 Install Module
 ```bash
 npm i
+```
+## Run Code
+```bash
+node index.js
 ```
 ## Special Thanks to
 * [`puppeteer`](https://github.com/puppeteer/puppeteer/)
