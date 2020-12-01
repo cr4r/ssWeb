@@ -1,11 +1,10 @@
 const url3 = require('url');
 const {ss} = require('./ss');
 
-var urlll = 'https://google.com'
-namaFilenya = url3.parse(urlll).pathname.split('/').pop();
-
+var urlll = 'https://www.instagram.com/p/CIJdq5PAXof/media/?size=l'
+namaFilenya = url3.parse(urlll).hostname
 if(namaFilenya === ''){ namaFilenya = urlll.replace('https://','').replace('http://','') }
-
+console.log(namaFilenya)
 // Pilih 3 mode
 // mode => full => Screenshot full page
 // mode => null => Screenshot Tidak Full
