@@ -38,8 +38,13 @@ npm i
 ```bash
 node index.js
 ```
+## Fitur
+PDF, PNG
+
+## Edit Fitur
+ubah lah variabel mode di index.js.
 ## Special Thanks to
 * [`puppeteer`](https://github.com/puppeteer/puppeteer/)
 
 ### Donate
-* [`trakteer`](trakteer.id/cr4r)
+* [`trakteer`](https://trakteer.id/cr4r)
