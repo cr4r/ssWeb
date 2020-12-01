@@ -1,0 +1,30 @@
+{
+  "name": "screenshotweb",
+  "version": "0.0.1",
+  "description": "Screenshot and pdf website with puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cr4r/ssWeb.git"
+  },
+  "keywords": [
+    "screenshot",
+    "pdf",
+    "website",
+    "ss",
+    "export"
+  ],
+  "author": "cr4r",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/cr4r/ssWeb/issues"
+  },
+  "homepage": "https://github.com/cr4r/ssWeb#readme",
+  "dependencies": {
+    "puppeteer": "^5.5.0",
+    "url": "^0.11.0"
+  }
+}
